@@ -4,12 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
+
     "start": "node index.js"
-=======
+
     
-  "start":"node index.js"
->>>>>>> efd9272c964af6574555243888136e0a25ae1bfe
+
+
   },
   "author": "",
   "license": "ISC",
